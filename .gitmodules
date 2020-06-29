@@ -1,0 +1,12 @@
+[submodule "Keebio-Parts.pretty"]
+	path = Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "MX_Alps_Hybrid"]
+	path = MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "teensy.pretty"]
+	path = teensy.pretty
+	url = https://github.com/XenGi/teensy.pretty.git
+[submodule "teensy_library"]
+	path = teensy_library
+	url = https://github.com/XenGi/teensy_library.git
